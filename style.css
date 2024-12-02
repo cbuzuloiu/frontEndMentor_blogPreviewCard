@@ -112,4 +112,8 @@ body {
   .img1 {
     width: 279px;
   }
+
+  h1 {
+    font-size: 20px;
+  }
 }
